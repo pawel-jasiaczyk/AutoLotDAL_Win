@@ -1,0 +1,4 @@
+C:\Users\pawel_000\Documents\Visual Studio 2013\Projects\Nauka\Troelsen\ADO\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+C:\Users\pawel_000\Documents\Visual Studio 2013\Projects\Nauka\Troelsen\ADO\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+C:\Users\pawel_000\Documents\Visual Studio 2013\Projects\Nauka\Troelsen\ADO\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+C:\Users\pawel_000\Documents\Visual Studio 2013\Projects\Nauka\Troelsen\ADO\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
