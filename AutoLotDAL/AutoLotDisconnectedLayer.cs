@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace AutoLotDisconnectedLayer
 {
-    class InventoryDALDisLayer
+    public class InventoryDALDisLayer
     {
         // pola danych
         private string cnString = string.Empty;
@@ -32,7 +32,7 @@ namespace AutoLotDisconnectedLayer
             SqlCommandBuilder builder = new SqlCommandBuilder(dAdapt);
         }
 
-        public DataTable GetAllInventoru()
+        public DataTable GetAllInventory()
         {
             DataTable inv = new DataTable("Inventory");
             dAdapt.Fill(inv);
